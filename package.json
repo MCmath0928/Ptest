@@ -1,0 +1,12 @@
+{
+  "name": "animal-quiz-vercel",
+  "version": "1.0.0",
+  "description": "测试 - Vercel",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "vercel": "^28.16.0"
+  }
+}
